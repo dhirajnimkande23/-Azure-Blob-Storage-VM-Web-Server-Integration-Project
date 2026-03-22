@@ -1,4 +1,7 @@
-🚀# -Azure-Blob-Storage-VM-Web-Server-Integration-Project
+# 🚀 Azure Blob Storage + VM Web Server Integration Project
+
+> **Host Static Image from Azure Blob Storage & Serve via Apache Web Server (Azure VM)**
+> **Author:** Dhiraj Nimkande
 
 Host Static Image from Azure Blob Storage & Serve via Apache Web Server (Azure VM)
 
